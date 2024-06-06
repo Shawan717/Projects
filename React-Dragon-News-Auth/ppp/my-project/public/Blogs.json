@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "https://i.ibb.co/YkW7ZbN/denny-muller-Jy-So-Enr-e-Og-unsplash.jpg",
+      "Title": "The Enigmatic Chronicles",
+      "Author": "Penelope Quill",
+      "Author_img": "https://i.ibb.co/HDhGRBL/american-1296393-1280.png",
+      "Posted_Date": "2023-03-10",
+      "Reading_Time": "20 minutes",
+      "Hashtags": ["#Mystery", "#Adventure", "#Fantasy"]
+    },
+    {
+      "ID": 67890,
+      "Cover": "https://i.ibb.co/TRz3mPs/oskar-yildiz-gy08-FXe-M2-L4-unsplash.jpg",
+      "Title": "Quantum Quotient",
+      "Author": "Maximillian Cipher",
+      "Author_img": "https://i.ibb.co/HDhGRBL/american-1296393-1280.png",
+      "Posted_Date": "2023-04-05",
+      "Reading_Time": "15 minutes",
+      "Hashtags": ["#ScienceFiction", "#Thriller", "#Quantum"]
+    },
+    {
+      "ID": 13579,
+      "Cover": "https://i.ibb.co/fxpwW31/lautaro-andreani-xk-Baqlcqeb4-unsplash.jpg",
+      "Title": "Serendipity Sonata",
+      "Author": "Harmony Melody",
+      "Author_img": "https://i.ibb.co/HDhGRBL/american-1296393-1280.png",
+      "Posted_Date": "2023-02-22",
+      "Reading_Time": "25 minutes",
+      "Hashtags": ["#Romance", "#Drama", "#Music"]
+    },
+    {
+      "ID": 24680,
+      "Cover": "https://i.ibb.co/gzS4BWS/jackson-sophat-w-Ub-Nv-DTs-OIc-unsplash.jpg",
+      "Title": "Byte Brawlers",
+      "Author": "Orion Code",
+      "Author_img": "https://i.ibb.co/HDhGRBL/american-1296393-1280.png",
+      "Posted_Date": "2023-01-15",
+      "Reading_Time": "18 minutes",
+      "Hashtags": ["#Technology", "#Action", "#Cyberpunk"]
+    },
+    {
+      "ID": 98765,
+      "Cover": "https://i.ibb.co/51BYcW4/kobu-agency-ip-ARHax-ETRk-unsplash.jpg",
+      "Title": "Culinary Chronicles",
+      "Author": "Gourmet Explorer",
+      "Author_img": "https://i.ibb.co/HDhGRBL/american-1296393-1280.png",
+      "Posted_Date": "2023-05-08",
+      "Reading_Time": "30 minutes",
+      "Hashtags": ["#Cooking", "#Foodie", "#Adventure"]
+    }
+  ]
+  
